@@ -1,2 +1,3 @@
 # ccnet-pascal
-CCNet Protocol Library for communication with devices 
+cctalk Protocol Library for communication with devices 
+
